@@ -19,11 +19,10 @@ Bages
   </a>
 </p>
 <p align="center">
-  <a href="https://wayhomelive.vercel.app/">
+  <a href="https://wayhomelive.vercel.app/" style="text-decoration:none;">
     <img
-      src="docs/assets/live-website-wayhome.gif"
+      src="https://img.shields.io/badge/🌐%20Live%20Website-FFFFFF?style=flat-square&labelColor=FFFFFF&color=2563EB"
       alt="Live Website"
-      width="300"
     />
   </a>
 </p>

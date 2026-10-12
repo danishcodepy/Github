@@ -18,3 +18,9 @@ Bages
     />
   </a>
 </p>
+
+<a href="https://wayhomelive.vercel.app/" class="live-link">
+  <span>Live Website</span>
+  <span class="arrow">→</span>
+  <span class="animated-line"></span>
+</a>

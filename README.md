@@ -18,3 +18,12 @@ Bages
     />
   </a>
 </p>
+<p align="center">
+  <a href="https://wayhomelive.vercel.app/">
+    <img
+      src="docs/assets/live-website-wayhome.gif"
+      alt="Live Website"
+      width="300"
+    />
+  </a>
+</p>

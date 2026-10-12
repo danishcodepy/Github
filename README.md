@@ -30,9 +30,6 @@ Bages
 
 <p align="center">
   <a href="https://wayhomelive.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/🌐%20Live%20Website-FFFFFF?style=for-the-badge&labelColor=7C3AED&color=7C3AED"
-      alt="Live Website"
-    />
+    <img src="docs/assets/live-website-description.svg" width="360" alt="Live Website">
   </a>
 </p>

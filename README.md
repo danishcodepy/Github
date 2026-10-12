@@ -9,28 +9,10 @@ Bages
     />
   </a>
 </p>
+### Property Discovery
+
 <p align="center">
-  <a href="https://wayhomelive.vercel.app/"
-     style="
-       display:inline-block;
-       padding:14px 24px;
-       border-radius:16px;
-       background:#EFF6FF;
-       color:#0F172A;
-       text-decoration:none;
-       font-family:Arial,sans-serif;
-       font-weight:700;
-       box-shadow:0 6px 20px rgba(37,99,235,0.14);
-     ">
-    🌐 &nbsp; Live Website
-    <br>
-    <span style="
-      font-size:12px;
-      font-weight:400;
-      color:#64748B;
-    ">
-      Open in new tab
-    </span>
-    &nbsp;&nbsp;↗
+  <img src="docs/assets/property-discovery-map.png" alt="WayHome Property Discovery Map" width="100%">
+</p>
   </a>
 </p>
